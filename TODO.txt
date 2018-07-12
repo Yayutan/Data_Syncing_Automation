@@ -1,0 +1,4 @@
+07/12/2018
+	Got the great advice from my mom to:
+		- add feature to make log files after per run
+		- add the time needed for humans to do the same task
